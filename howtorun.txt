@@ -1,0 +1,26 @@
+GET trong Postman : https://api.themoviedb.org/3/movie/550?api_key=9ae146a7a17361e4b7e8f03f00b68789
+API_KEY: 9ae146a7a17361e4b7e8f03f00b68789
+B1: mở terminal chạy lệnh 
+ npx create-react-app netflix-clone
+ 
+ npm install -g firebase-tools
+ sudo npm install -g firebase-tools
+ 
+ cd netflix-clone
+ npm start
+
+ npm i axios
+
+B2: Build movie,trailer chạy lệnh:
+
+ npm i movie-trailer
+ 
+ npm i react-youtube
+
+B3: Build App chạy lệnh:
+ 
+ firebase logout
+ firebase login
+ firebase init
+ build 
+
